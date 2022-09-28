@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Narendra 
+- 👋 Hi, I’m Satya
 - 👀 I’m interested in Full stack development and Data Science.
 - 🌱 I’m currently working as software developer at Capgemini.
 - 💞️ I’m looking to collaborate on full stack freelancing and open source projects.
